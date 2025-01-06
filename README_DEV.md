@@ -1,1 +1,0 @@
-- Be careful to keep Mocha fixed to the same version as electron-mocha's Mocha, in order for coverage-reporter to work

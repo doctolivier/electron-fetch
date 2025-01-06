@@ -32,9 +32,3 @@ node_modules
 # OS files
 .DS_Store
 
-# Babel-compiled files
-lib/**/*
-.idea/
-
-# typescript declarations
-!lib/**/*.d.ts
